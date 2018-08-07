@@ -1,0 +1,6 @@
+
+Sayi.cpp kaynak dosyasý içindeki digitDizisinin boyutu 1000000 olarak belirlendi.
+
+Bu boyut ile yaklaþýk 110000! 'i hesaplayabiliyoruz.
+
+Daha büyük sayýlarýn hesaplamasý yapýlacaðý takdirde sonuçta oluþacak digit sayýsý 1000000'dan büyük olacaðý için dizinin boyutunun arttýrýlmasý gerekiyor.
